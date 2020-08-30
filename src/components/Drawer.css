@@ -1,0 +1,15 @@
+.iconUser{
+    color: red;
+    font-size: 70px !important ;
+}
+
+.logout{
+    position:fixed; 
+    left: 40px;
+    bottom:0px;  
+}
+
+.iconLogout{
+    color: red;
+    font-size: 40px !important ;
+}
