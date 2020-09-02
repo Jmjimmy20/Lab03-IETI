@@ -1,3 +1,52 @@
+# Lab03-IETI - Escuela Colombiana de Ingenieria Julio Garavito 
+
+## Autor: ##
+**Jonatan Esteban Gonzalez Rodriguez**
+
+## Despliegue en _Heroku_ ##
+**Link:** https://sleepy-tundra-08915.herokuapp.com/
+
+**Credenciales de acceso:**
+   - _Usuario: jonatan@mail.com_
+   - _Contraseña: 1234_
+
+## Despliegue en _Azure_ ##
+**Link:** https://react-app-azure-deploy.azurewebsites.net
+
+**Credenciales de acceso:**
+   - _Usuario: jonatan@mail.com_
+   - _Contraseña: 1234_
+   
+### Nota: Debido a que Azure consume recursos por utilizar sus productos, no esta en funcionamiento la pagina, sin embargo, se deja evidencia de pruebas realizada del despliegue en Azure en las pantallas a continuación. ###
+
+## Pruebas Despliegue de App en Azure ##
+- **Se crea el AppService (react-app-azure-deploy)**
+![](https://github.com/JonatanGonzalez09/Lab03-IETI/blob/master/images/Creacion%20recurso.JPG)
+
+- **Se despliega la aplicación en el AppService de Azure**
+![](https://github.com/JonatanGonzalez09/Lab03-IETI/blob/master/images/App-desplegada.JPG)
+
+- **Se realiza la prueba de ingreso a la pagina, utilizando las credenciales**
+![](https://github.com/JonatanGonzalez09/Lab03-IETI/blob/master/images/prueba1.JPG)
+
+- **Se verifica el ingreso y se agrega una tarea a la app**
+![](https://github.com/JonatanGonzalez09/Lab03-IETI/blob/master/images/prueba2.JPG)
+
+- **Se valida el boton de logou y el drawer component**
+![](https://github.com/JonatanGonzalez09/Lab03-IETI/blob/master/images/prueba3.JPG)
+
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
+
+Código de Honor
+------
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
+
+- Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
+
+- No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
+
+- No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
